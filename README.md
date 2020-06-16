@@ -1,0 +1,2 @@
+# FingerprintRecongnize
+本人的指纹识别相关的研究及实现
